@@ -1,3 +1,3 @@
-# create spotify-clone
+# spotify-clone
 
 A simple Spotify clone built using HTML, CSS, and JavaScript.
